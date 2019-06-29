@@ -24,12 +24,9 @@ export default {
 <style lang="less">
 .basic-page {
   .deepexi-document-view .deepexi-scrollbar {
-    position: fixed;
-    top: 100px;
-    right: 50px;
     &.fixed {
       right: 50px;
-      top: 100px;
+      top: 50px;
     }
   }
 }
